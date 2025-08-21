@@ -7,13 +7,13 @@ This repository will contain a series of classes that work together to create a 
 
 💡 Key OOP Concepts Demonstrated
 
-Encapsulation: Data and methods are bundled within a class, and access to data is controlled via methods.
+**Encapsulation:** Data and methods are bundled within a class, and access to data is controlled via methods.
 
-Inheritance: New classes are created from existing classes, inheriting their properties and methods. This allows for code reuse and a hierarchical structure.
+**Inheritance:** New classes are created from existing classes, inheriting their properties and methods. This allows for code reuse and a hierarchical structure.
 
-Polymorphism: Objects of different classes are treated as objects of a common superclass. This is often achieved through method overriding and interfaces.
+**Polymorphism:** Objects of different classes are treated as objects of a common superclass. This is often achieved through method overriding and interfaces.
 
-Abstraction: Complex implementation details are hidden, and only the essential features are shown to the user.
+**Abstraction:** Complex implementation details are hidden, and only the essential features are shown to the user.
 --------------------------------------------------------------------------------------------------------
 🤝 Contribution
 
